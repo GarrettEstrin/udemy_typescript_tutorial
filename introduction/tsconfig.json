@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+			"sourceMap": false,
+			"outDir": "build"
+	},
+	"include": [
+			"*.ts"
+	]
+	// "files":[
+	//     "*.ts"
+	// ]
+}
